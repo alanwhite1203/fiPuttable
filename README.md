@@ -110,6 +110,6 @@ Coupon	0.012
 
 
 You can find more details at
-https://finpricing.com/lib/IrCurve.html
+https://finpricing.com/lib/EqWarrant.html
 
 

@@ -109,7 +109,11 @@ Coupon	0.012
 
 
 
-You can find more details at
-https://finpricing.com/lib/EqWarrant.html
+References:
+
+https://finpricing.com/lib/EqRangeAccrual.html
+
+https://bitbucket.org/cmrm11/fiputtable/downloads/FiPuttableBond-16.pdf
+
 
 
